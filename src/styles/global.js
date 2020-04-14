@@ -35,4 +35,8 @@ export default createGlobalStyle`
   ul{
     list-style: none;
   }
+
+  button {
+    cursor: pointer;
+  }
 `;
